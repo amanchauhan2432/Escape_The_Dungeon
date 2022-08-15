@@ -1,0 +1,47 @@
+[
+	{
+		"file": "D:\\\\UE Projects\\\\UE4 Projects\\\\Escape_The_Dungeon\\\\Source\\\\Building_Escape\\\\Building_Escape.Build.cs",
+		"command": "cl.exe @\"D:\\UE Projects\\UE4 Projects\\Escape_The_Dungeon\\.vscode\\compileCommands_Default\\Building_Escape.182.rsp\"",
+		"directory": "C:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\UE Projects\\\\UE4 Projects\\\\Escape_The_Dungeon\\\\Source\\\\Building_Escape\\\\Building_Escape.cpp",
+		"command": "cl.exe @\"D:\\UE Projects\\UE4 Projects\\Escape_The_Dungeon\\.vscode\\compileCommands_Default\\Building_Escape.182.rsp\"",
+		"directory": "C:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\UE Projects\\\\UE4 Projects\\\\Escape_The_Dungeon\\\\Source\\\\Building_Escape\\\\Building_Escape.h",
+		"command": "cl.exe @\"D:\\UE Projects\\UE4 Projects\\Escape_The_Dungeon\\.vscode\\compileCommands_Default\\Building_Escape.182.rsp\"",
+		"directory": "C:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\UE Projects\\\\UE4 Projects\\\\Escape_The_Dungeon\\\\Source\\\\Building_Escape\\\\Building_EscapeGameModeBase.cpp",
+		"command": "cl.exe @\"D:\\UE Projects\\UE4 Projects\\Escape_The_Dungeon\\.vscode\\compileCommands_Default\\Building_Escape.182.rsp\"",
+		"directory": "C:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\UE Projects\\\\UE4 Projects\\\\Escape_The_Dungeon\\\\Source\\\\Building_Escape\\\\Building_EscapeGameModeBase.h",
+		"command": "cl.exe @\"D:\\UE Projects\\UE4 Projects\\Escape_The_Dungeon\\.vscode\\compileCommands_Default\\Building_Escape.182.rsp\"",
+		"directory": "C:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\UE Projects\\\\UE4 Projects\\\\Escape_The_Dungeon\\\\Source\\\\Building_Escape\\\\Grabber.cpp",
+		"command": "cl.exe @\"D:\\UE Projects\\UE4 Projects\\Escape_The_Dungeon\\.vscode\\compileCommands_Default\\Building_Escape.182.rsp\"",
+		"directory": "C:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\UE Projects\\\\UE4 Projects\\\\Escape_The_Dungeon\\\\Source\\\\Building_Escape\\\\Grabber.h",
+		"command": "cl.exe @\"D:\\UE Projects\\UE4 Projects\\Escape_The_Dungeon\\.vscode\\compileCommands_Default\\Building_Escape.182.rsp\"",
+		"directory": "C:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\UE Projects\\\\UE4 Projects\\\\Escape_The_Dungeon\\\\Source\\\\Building_Escape\\\\OpenDoor.cpp",
+		"command": "cl.exe @\"D:\\UE Projects\\UE4 Projects\\Escape_The_Dungeon\\.vscode\\compileCommands_Default\\Building_Escape.182.rsp\"",
+		"directory": "C:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\UE Projects\\\\UE4 Projects\\\\Escape_The_Dungeon\\\\Source\\\\Building_Escape\\\\OpenDoor.h",
+		"command": "cl.exe @\"D:\\UE Projects\\UE4 Projects\\Escape_The_Dungeon\\.vscode\\compileCommands_Default\\Building_Escape.182.rsp\"",
+		"directory": "C:\\UE_4.26\\Engine\\Source"
+	}
+]

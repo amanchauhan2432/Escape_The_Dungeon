@@ -24,20 +24,19 @@ protected:
 	// Called when the game starts
 	virtual void BeginPlay() override;
 
-private: 
-	float Reach = 200.f;
+private:
+	UPROPERTY(EditAnywhere)
+	float Reach = 450.f;
 	
 	UPROPERTY()
 	UPhysicsHandleComponent* PhysicsHandle = nullptr;
 	UPROPERTY()
 	UInputComponent* InputComponent = nullptr;
 
-	void Grab();
-	void Release();
 	void FindPhysicsComponent();
 	void SetupInputComponent();
+	void Grab();
+	void Release();
 
-	FHitResult GetFirstPhysicsBodyInReach() const;
 	FVector GetPlayerReach() const;
-	FVector GetPlayerWorldPos() const;
 };

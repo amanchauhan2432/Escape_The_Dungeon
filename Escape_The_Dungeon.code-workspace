@@ -1,12 +1,12 @@
 {
 	"folders": [
 		{
-			"name": "Building_Escape",
+			"name": "Escape_The_Dungeon",
 			"path": "."
 		},
 		{
 			"name": "UE4",
-			"path": "C:\\Program Files\\Epic Games\\UE_4.26"
+			"path": "C:\\UE_4.26"
 		}
 	],
 	"settings": {
