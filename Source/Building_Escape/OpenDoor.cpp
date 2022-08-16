@@ -7,9 +7,6 @@
 #include "OpenDoor.h"
 #include "GameFramework/Actor.h"
 
-
-#define OUT
-
 // Sets default values for this component's properties
 UOpenDoor::UOpenDoor()
 {
